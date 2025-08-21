@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋, I'm Isaiah Yenou
 
-<!--
-**yenisaa/yenisaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Frontend Engineer in Training**  
+🌍 Lagos, Nigeria  
+💡 Passionate about clean, user-friendly web experiences
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+
+- 🎓 Currently studying **Frontend Engineering** at [AltSchool Africa](https://altschoolafrica.com/)
+- 📘 Learning **TypeScript** with the *Total TypeScript* book
+- 💻 Skilled in **React**, **Vue**, **Tailwind CSS**, **HTML5**, **CSS3**, **JavaScript**
+- 🔭 Building clean, scalable, and performant web apps
+- 🎹 *Fun fact*: I play the piano — creativity spills into my coding 🎶
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+React ⚛️ | Vue | Next.js | Nuxt.js | JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS 🎨
+
+**Other Tools:**  
+Git | GitHub | Figma | VS Code 
+
+---
+
+## 📌 Current Projects
+
+- 🌐 Building a website for [Golden Dawn Sanctuary](#)
+- 📖 Documenting my TypeScript learning journey
+- ✍️ Sharing insights and dev stories on [LinkedIn](https://linkedin.com/in/isaiah-yenou) and [Twitter](https://x.com/isaiahyenou)
+
+---
+
+## 📈 GitHub Stats
+
+![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenisaa&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/isaiah-yenou)
+- 🐦 [Twitter](https://twitter.com/isaiahyenou)
+- 📫 Email: ayomidesconcept@gmail.com
+
+---
+
+✨ *“Code is like music. The beauty is in the harmony between creativity and structure.”*

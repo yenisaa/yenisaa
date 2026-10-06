@@ -28,9 +28,9 @@ Git | GitHub | Figma | VS Code
 
 ## 📌 Current Projects
 
-- 🌐 Building a website for [Golden Dawn Sanctuary](#)
+- 🌐 Building a website for [Gist Center]([#](https://gist-center.onrender.com/))
 - 📖 Documenting my TypeScript learning journey
-- ✍️ Sharing insights and dev stories on [LinkedIn](https://linkedin.com/in/isaiah-yenou) and [Twitter](https://x.com/isaiahyenou)
+- ✍️ Sharing insights and dev stories on [LinkedIn](https://linkedin.com/in/isaiah-yenou) and [Twitter](https://x.com/devwitzaiah)
 
 ---
 

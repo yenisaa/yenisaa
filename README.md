@@ -1,51 +1,46 @@
-# Hi there 👋, I'm Isaiah Yenou
+# Isaiah Ayomide Yenou
 
-🚀 **Frontend Engineer in Training**  
-🌍 Lagos, Nigeria  
-💡 Passionate about clean, user-friendly web experiences
+**Frontend Engineer & Designer** · Founder, [Yenovate Lab](https://yenovatelab.com) · Lagos, Nigeria
 
----
-
-## 🌱 About Me
-
-- 🎓 Currently studying **Frontend Engineering** at [AltSchool Africa](https://altschoolafrica.com/)
-- 📘 Learning **TypeScript** with the *Total TypeScript* book
-- 💻 Skilled in **React**, **Vue**, **Tailwind CSS**, **HTML5**, **CSS3**, **JavaScript**
-- 🔭 Building clean, scalable, and performant web apps
-- 🎹 *Fun fact*: I play the piano — creativity spills into my coding 🎶
+I build fast, accessible web interfaces with React, Next.js and TypeScript, and I'm growing into full-stack work with Node.js and Express. I graduated from [AltSchool Africa](https://altschoolafrica.com/) in Frontend Engineering.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-**Frontend:**  
-React ⚛️ | Vue | Next.js | Nuxt.js | JavaScript | TypeScript | HTML5 | CSS3 | Tailwind CSS 🎨
-
-**Other Tools:**  
-Git | GitHub | Figma | VS Code 
-
----
-
-## 📌 Current Projects
-
-- 🌐 Building a website for [Gist Center]([#](https://gist-center.onrender.com/))
-- 📖 Documenting my TypeScript learning journey
-- ✍️ Sharing insights and dev stories on [LinkedIn](https://linkedin.com/in/isaiah-yenou) and [Twitter](https://x.com/devwitzaiah)
+| Project | What it is | Stack |
+|---|---|---|
+| [**gist-center**](https://github.com/yenisaa/gist-center) ([live](https://gist-center.onrender.com/)) | Blog app with full create, read, edit and delete | Node.js, Express, EJS |
+| [**space-tourism**](https://github.com/yenisaa/space-tourism) | Multi-page space tourism website | JavaScript, CSS |
+| [**TheRoot**](https://github.com/yenisaa/TheRoot) | Language learning app teaching African languages and their roots | JavaScript |
 
 ---
 
-## 📈 GitHub Stats
+## Tech Stack
 
-![Isaiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenisaa&show_icons=true&theme=radical)
-
----
-
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/isaiah-yenou)
-- 🐦 [Twitter](https://twitter.com/isaiahyenou)
-- 📫 Email: ayomidesconcept@gmail.com
+**Frontend:** React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML5 · CSS3  
+**Backend:** Node.js · Express · EJS  
+**CMS:** WordPress · Elementor Pro  
+**Design & Tools:** Figma · Git · GitHub · VS Code · Render
 
 ---
 
-✨ *“Code is like music. The beauty is in the harmony between creativity and structure.”*
+## Currently
+
+- Building client websites through Yenovate Lab
+- Deepening my TypeScript and learning back-end development (databases, authentication, deployment)
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=yenisaa&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenisaa&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/isaiah-yenou) · [X](https://x.com/devwitzaiah) · ayomidesconcept@gmail.com
